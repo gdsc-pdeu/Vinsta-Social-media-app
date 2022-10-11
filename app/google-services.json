@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148490459036",
+    "project_id": "vinsta-d08d4",
+    "storage_bucket": "vinsta-d08d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148490459036:android:d232a3fb80e27d9a921a59",
+        "android_client_info": {
+          "package_name": "com.veercreation.vinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148490459036-66u5glh1ddeffeqn8u87l2jp8a0rq1fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9HF5ud1rbDFNNK4s3TDuZVphDkU5bDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148490459036-66u5glh1ddeffeqn8u87l2jp8a0rq1fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
